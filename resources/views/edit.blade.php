@@ -10,7 +10,7 @@
         @method('PUT')
         @csrf
         <div class="id-container">
-        <p>ID</p>
+            <p>ID</p>
             {{$product->id}}.
         
         </div>
